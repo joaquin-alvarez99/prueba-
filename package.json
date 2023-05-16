@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/joaquin-alvarez99/prueba-/issues"
   },
-  "homepage": "https://github.com/joaquin-alvarez99/prueba-#readme"
+  "homepage": "https://github.com/joaquin-alvarez99/prueba-#readme",
+  "dependencies": {
+    "pg": "^8.11.0"
+  }
 }
